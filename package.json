@@ -1,0 +1,14 @@
+{
+  "name": "@followdev/notes-library",
+  "version": "2.0.0",
+  "description": "Removes all spaces from a string",
+  "license": "MIT",
+  "repository": "followdev/notes-library",
+  "main": "index.js",
+  "keywords": [
+    "tiny",
+    "npm",
+    "package",
+    "followdev"
+  ]
+}
